@@ -1,0 +1,26 @@
+<annotation>
+	<folder>table_img</folder>
+	<filename>0000246.jpg</filename>
+	<path>C:\Users\rarom\Desktop\table_img\0000246.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>653</width>
+		<height>653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>256</ymin>
+			<xmax>568</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>
