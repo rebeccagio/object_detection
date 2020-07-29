@@ -7,6 +7,6 @@
 
 Folders: 
 
-dataset - json file with annotated images 
-table_img - photorealistic synthetic images used to train model 
+dataset - json file with annotated images,
+table_img - photorealistic synthetic images used to train model,
 test_img - real images used to test the model 
